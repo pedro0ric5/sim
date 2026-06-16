@@ -1,9 +1,53 @@
-.container{
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
-    height: 100hv;
+html {
+  height: 100%;
+  width: 100%;
 }
-.body{
-    background-color: rgba(117, 0, 0, 0.664);
-}
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+   th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+     background-color: mediumslateblue;
+     color: blanchedalmond;
+  }
+
+  td { 
+    background-color: mediumslateblue;
+    color:rgb(155, 13, 13); 
+  }
+  h1, h2, h3 {
+    color:honeydew;
+    font-family:comic sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  p {
+    color:honeydew;
+    font-family:comic sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  li {
+    color:honeydew;
+    font-family:comic sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  a {
+    color:rgba(249, 135, 216, 0.767);
+    font-size: 20px;
+    font-weight: bold;
+  }
+  body{
+    background-color:#3B3B58;
+  }
+  footer {
+    background-color:rgb(155, 13, 13);
+  }
+  
