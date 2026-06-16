@@ -36,6 +36,13 @@ html {
     font-weight: bold;
     text-align: center;
   }
+  ul{
+    color:honeydew;
+    font-family:comic sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
   li {
     color:honeydew;
     font-family:comic sans-serif;
