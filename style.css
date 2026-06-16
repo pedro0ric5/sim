@@ -34,10 +34,14 @@ html {
     font-family:comic sans-serif;
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
   }
   li {
     color:honeydew;
     font-family:comic sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
   }
   a {
     color:rgba(249, 135, 216, 0.767);
