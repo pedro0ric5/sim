@@ -8,20 +8,6 @@ html {
   margin-right: auto;
   width: 50%;
 }
-   th, td {
-    border: 2px solid black;
-    padding: 8px;
-    text-align: center;
-  }
-  th {
-     background-color: mediumslateblue;
-     color: blanchedalmond;
-  }
-
-  td { 
-    background-color: mediumslateblue;
-    color:rgb(155, 13, 13); 
-  }
   h1, h2, h3, h4, h5, h6 {
     color:honeydew;
     font-family:comic sans-serif;
@@ -49,15 +35,10 @@ html {
     font-weight: bold;
     text-align: center;
   }
-  a {
-    color:rgba(249, 135, 216, 0.767);
-    font-size: 20px;
-    font-weight: bold;
-  }
   body{
-    background-color:#3B3B58;
+    background-color:#0e0158;
   }
   footer {
-    background-color:rgb(155, 13, 13);
+    background-color:rgb(83, 0, 0);
   }
   
